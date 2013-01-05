@@ -1,0 +1,6 @@
+# Common patterns
+*~
+*.class
+*.iml
+build/
+.gradle/
